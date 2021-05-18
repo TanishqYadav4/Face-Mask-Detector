@@ -26,3 +26,13 @@ cd FaceMaskDetector
 
 The Project is now ready to use !!
 
+Working :
+
+without mask :
+
+![Capture1](https://user-images.githubusercontent.com/53622016/118588349-d4175b80-b7bb-11eb-8686-3367c591eae1.PNG)
+
+with mask :
+
+![Capture2](https://user-images.githubusercontent.com/53622016/118588365-dd082d00-b7bb-11eb-9894-6b2491f7d1e8.PNG)
+
