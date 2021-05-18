@@ -15,15 +15,14 @@ How to Use
 To use this project on your system, follow these steps:
 
 1.Clone this repository onto your system by typing the following command on your Command Prompt:
-
 git clone https://github.com/TanishqYadav4/Face-Mask-Detector.git
 followed by:
-
 cd FaceMaskDetector
-Download all libaries using::
-pip install -r requirements.txt
-Run facemask.py by typing the following command on your Command Prompt:
-python facemask.py
+
+2.Download all libaries using: pip install -r requirements.txt
+
+3.Run facemask.py by typing the following command on your Command Prompt:
+    python facemask.py
 
 The Project is now ready to use !!
 
